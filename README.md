@@ -353,7 +353,7 @@ ipv6 nd other-config-flag
 
 <img width="550" height="256" alt="image" src="https://github.com/user-attachments/assets/76dc20b3-3162-4652-987e-803ec2feb66e" />
 
-- **Pv6-адрес:** ```2001:DB8:0:200:202:4AFF:FEC6:2C84``` — сгенерирован через SLAAC на основе MAC-адреса (EUI-64).
+- **IPv6-адрес:** ```2001:DB8:0:200:202:4AFF:FEC6:2C84``` — сгенерирован через SLAAC на основе MAC-адреса (EUI-64).
 - **DNS-сервер IPv6:** ```2001:4860:4860::8888``` — получен от stateless DHCPv6-сервера на R2 (локально).
 - **Шлюз по умолчанию IPv6:** ```FE80::240:BFF:FE68:B102``` — link-local адрес R2.
 
